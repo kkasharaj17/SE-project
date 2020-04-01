@@ -1,4 +1,4 @@
-# SmartStyle - Salon Management System
+# SmartStyle - Salon Management System ^-^
 
 This project is based on a real business stationed in Tirana, Albania and will provide them with a Management System of a Spa and Hairdresser salon. 
 
