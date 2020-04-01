@@ -1,4 +1,4 @@
-### SmartStyle
+# SmartStyle
 
 ## Salon Management System
 
