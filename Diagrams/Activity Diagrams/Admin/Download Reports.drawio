@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" modified="2020-05-06T18:44:03.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="ErnpI2g68PEoOb104k8Y" version="13.0.8" type="github">
+  <diagram id="Lk74XoYKnYpU-4dZqS-C" name="Page-1">
+    <mxGraphModel dx="782" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1xcK4z-7fmxsR_L0OcB_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="100" as="sourcePoint" />
+            <mxPoint x="410" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xcK4z-7fmxsR_L0OcB_-4" value="Go to Accounting Reports&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="339" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1xcK4z-7fmxsR_L0OcB_-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1xcK4z-7fmxsR_L0OcB_-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xcK4z-7fmxsR_L0OcB_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1xcK4z-7fmxsR_L0OcB_-6" target="1xcK4z-7fmxsR_L0OcB_-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xcK4z-7fmxsR_L0OcB_-6" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="384" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wQjwLWXGUns_v5oUAE9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1xcK4z-7fmxsR_L0OcB_-53" target="1xcK4z-7fmxsR_L0OcB_-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3rmmsthHZLT0rmrNhb-13" value="Choose a fiscal year and a time span(month/quarter)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="334.5" y="167.5" width="124.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3rmmsthHZLT0rmrNhb-14" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3h3rmmsthHZLT0rmrNhb-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397" y="280" as="targetPoint" />
+            <mxPoint x="430" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="397" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVWj1V_ange5pjJXj4VU-1" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Bhtml%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dopen%3BendSize%3D8%3BstrokeColor%3D%23ff0000%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22535%22%20y%3D%22740%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20x%3D%22535%22%20y%3D%22670%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="691" y="251" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1xcK4z-7fmxsR_L0OcB_-53" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="386" y="640" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XLZmWuFK6iMOoB1Vs3ZM-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="542.6300000000001" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-4" value="Download the report" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="330.88" y="380" width="131.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-8" value="Generate a Financial Statement" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="339" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="XLZmWuFK6iMOoB1Vs3ZM-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="399" y="370" />
+              <mxPoint x="399" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-11" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XLZmWuFK6iMOoB1Vs3ZM-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397" y="520" as="targetPoint" />
+            <mxPoint x="400" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="397" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="416" y="456" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-13" value="The Financial Statement for that fiscal year is downloaded" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="330" y="520" width="129" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-14" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="XLZmWuFK6iMOoB1Vs3ZM-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-17" value="Cancel" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="540" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="XLZmWuFK6iMOoB1Vs3ZM-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="410" />
+              <mxPoint x="670" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLZmWuFK6iMOoB1Vs3ZM-21" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="472" y="392" width="30" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
