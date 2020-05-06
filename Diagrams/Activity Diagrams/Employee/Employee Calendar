@@ -1,1 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-05-06T20:37:31.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 OPR/68.0.3618.63 (Edition Campaign 34)" version="13.0.8" etag="UZYJ6UVcT_-WDQig4Vuc" type="github"><diagram id="w64hXxdjuT_y3l8xmMym">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-06T20:38:31.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 OPR/68.0.3618.63 (Edition Campaign 34)" etag="P4q9GoniSIu9_bghmnej" version="13.0.8" type="github">
+  <diagram id="w64hXxdjuT_y3l8xmMym" name="Page-1">
+    <mxGraphModel dx="1062" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GxUiQzONOu7SOn1Ezh7V-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GxUiQzONOu7SOn1Ezh7V-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="GxUiQzONOu7SOn1Ezh7V-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GxUiQzONOu7SOn1Ezh7V-3" value="Employee accesses&lt;br&gt;Dashboard" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GxUiQzONOu7SOn1Ezh7V-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="GxUiQzONOu7SOn1Ezh7V-3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
