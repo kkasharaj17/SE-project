@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-11T19:18:39.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="oj12nHjI4xF_YlzrKOdU" version="13.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-11T20:24:20.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Keo9obbXB91j7_X_Yq7R" version="13.0.8" type="github">
   <diagram id="vq-2KucIpcAfNc6buzGl" name="Page-1">
     <mxGraphModel dx="1564" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
@@ -19,13 +19,19 @@
         <mxCell id="-hjgC2fwHh7JnLZEGiH2-4" value="Settings Interface" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="280" y="10" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-hjgC2fwHh7JnLZEGiH2-6" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;fontSize=30;startFill=0;" edge="1" target="-hjgC2fwHh7JnLZEGiH2-5" parent="1" source="-hjgC2fwHh7JnLZEGiH2-7">
+        <mxCell id="-hjgC2fwHh7JnLZEGiH2-6" value="showSettings()" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;fontSize=30;startFill=0;" edge="1" target="-hjgC2fwHh7JnLZEGiH2-5" parent="1" source="-hjgC2fwHh7JnLZEGiH2-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="290" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="280" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-hjgC2fwHh7JnLZEGiH2-8" value=":UpdateForm" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=30;size=120;" vertex="1" parent="1">
+          <mxGeometry x="670" y="110" width="210" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="-hjgC2fwHh7JnLZEGiH2-9" value=":Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=30;size=120;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="110" width="210" height="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
