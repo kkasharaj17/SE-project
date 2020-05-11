@@ -1,1 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2020-05-11T18:03:33.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.0.9" etag="VHZKt2CIfq7gA_XSmsmD" type="github"><diagram id="gfRswce91vyBvygHPGdX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-11T18:13:09.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="78WxDXyIL2tMVa6bRbYa" version="13.0.9" type="github">
+  <diagram id="gfRswce91vyBvygHPGdX" name="Page-1">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="p-vbMajEs-7GTMGcDb5m-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-3" value="Go to Dashboard/ Appointments" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="p-vbMajEs-7GTMGcDb5m-3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-5" value="Select Appointment to be Deleted" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="p-vbMajEs-7GTMGcDb5m-5" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-7" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="p-vbMajEs-7GTMGcDb5m-7" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="520" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="p-vbMajEs-7GTMGcDb5m-7" parent="1">
+          <mxGeometry x="1" y="67" relative="1" as="geometry">
+            <mxPoint x="380" y="420" as="targetPoint" />
+            <mxPoint x="-7" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-10" value="Cancel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="320" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-11" value="Confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-12" value="Back to Appointments" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.823;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="p-vbMajEs-7GTMGcDb5m-12" parent="1" target="p-vbMajEs-7GTMGcDb5m-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-14" value="Appointments is Cancelled" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="p-vbMajEs-7GTMGcDb5m-14" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-16" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="p-vbMajEs-7GTMGcDb5m-16" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-18" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dline%3Bhtml%3D1%3BstrokeWidth%3D6%3BstrokeColor%3D%23ff0000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22280%22%20y%3D%22520%22%20width%3D%22200%22%20height%3D%2210%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Bhtml%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dopen%3BendSize%3D8%3BstrokeColor%3D%23ff0000%3B%22%20edge%3D%221%22%20source%3D%222%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22380%22%20y%3D%22600%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="563" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-19" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p-vbMajEs-7GTMGcDb5m-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="600" as="targetPoint" />
+            <mxPoint x="320" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="430" y="580" />
+              <mxPoint x="430" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-20" value="Appointment Removed from Clients&#39; Appoinments" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.193;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="p-vbMajEs-7GTMGcDb5m-20" parent="1" target="p-vbMajEs-7GTMGcDb5m-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="710" />
+              <mxPoint x="450" y="710" />
+              <mxPoint x="450" y="750" />
+              <mxPoint x="453" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-22" value="Appointment Removed from salons&#39; Booking Calendar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="p-vbMajEs-7GTMGcDb5m-22" parent="1" target="p-vbMajEs-7GTMGcDb5m-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-24" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="414" y="750" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="p-vbMajEs-7GTMGcDb5m-24" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="514" y="840" />
+              <mxPoint x="514" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-vbMajEs-7GTMGcDb5m-26" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="499" y="860" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
