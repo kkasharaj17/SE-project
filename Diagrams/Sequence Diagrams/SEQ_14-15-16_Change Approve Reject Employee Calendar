@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T22:27:37.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="TiJU2US1bMrZEZuIBkpV" version="13.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-12T22:28:56.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="cK4IL2NHheRnWdW8vJ1R" version="13.1.0" type="github">
   <diagram id="fjjqlMAkbygXwSTQIuZQ" name="Page-1">
     <mxGraphModel dx="1303" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FNVLxTXej4wNCEfS-KUn-17" value="Alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=20;width=120;height=30;" vertex="1" parent="1">
-          <mxGeometry x="250" y="460" width="1000" height="280" as="geometry" />
+          <mxGeometry x="230" y="460" width="1020" height="280" as="geometry" />
         </mxCell>
         <mxCell id="FNVLxTXej4wNCEfS-KUn-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=120;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="70" height="760" as="geometry" />
@@ -147,6 +147,12 @@
         </mxCell>
         <mxCell id="FNVLxTXej4wNCEfS-KUn-35" value="&lt;br&gt;Calendar interface" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="590" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-36" value="[if Emp request is approved]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-37" value="[else]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
