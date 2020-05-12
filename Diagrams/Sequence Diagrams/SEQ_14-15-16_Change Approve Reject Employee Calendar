@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T22:05:18.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.1.0" etag="lrpJnTlEzBfzxP1M-4Ci" type="github"><diagram id="fjjqlMAkbygXwSTQIuZQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-12T22:16:34.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="MP_Hdp_EaL31ccdtl0LI" version="13.1.0" type="github">
+  <diagram id="fjjqlMAkbygXwSTQIuZQ" name="Page-1">
+    <mxGraphModel dx="1303" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-17" value="Alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=20;width=120;height=30;" vertex="1" parent="1">
+          <mxGeometry x="250" y="460" width="1000" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=120;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="70" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-7" value="accessEmpCalendar()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;strokeWidth=2;" edge="1" parent="FNVLxTXej4wNCEfS-KUn-1" target="FNVLxTXej4wNCEfS-KUn-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="40" y="200" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-3" value=":Calendar" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=80;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="320" y="84" width="160" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-4" value=":Shift" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=80;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="600" y="83" width="160" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-6" value=":Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=80;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="880" y="83" width="160" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-8" value="requestCalendarListQuerry()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;exitX=0.5;exitY=0.252;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="FNVLxTXej4wNCEfS-KUn-3" target="FNVLxTXej4wNCEfS-KUn-6">
+          <mxGeometry x="0.5013" width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="sourcePoint" />
+            <mxPoint x="480" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="250" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-9" value="returnRequest()" style="html=1;verticalAlign=bottom;endArrow=none;fontSize=20;exitX=0.5;exitY=0.252;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;startArrow=open;startFill=0;dashed=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="-0.5004" width="80" relative="1" as="geometry">
+            <mxPoint x="400.25" y="290.31999999999994" as="sourcePoint" />
+            <mxPoint x="959.75" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610.25" y="290" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-12" value="changeCalendarDay()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;exitX=0.5;exitY=0.252;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="0.5013" width="80" relative="1" as="geometry">
+            <mxPoint x="400.25" y="340.31999999999994" as="sourcePoint" />
+            <mxPoint x="959.75" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610.25" y="340" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-13" value="changeShift()" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;fontSize=20;" edge="1" parent="1" source="FNVLxTXej4wNCEfS-KUn-4" target="FNVLxTXej4wNCEfS-KUn-6">
+          <mxGeometry x="0.0059" width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="400" />
+              <mxPoint x="890" y="400" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-15" value=":System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=80;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="83" width="160" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-16" value="System acting as admin or secretary" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1080" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVLxTXej4wNCEfS-KUn-19" value="sendResponse()" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;fontSize=20;" edge="1" parent="1" source="FNVLxTXej4wNCEfS-KUn-6" target="FNVLxTXej4wNCEfS-KUn-15">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="960" y="470" as="sourcePoint" />
+            <mxPoint x="1030" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="440" />
+              <mxPoint x="1040" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
