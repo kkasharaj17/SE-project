@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T12:09:42.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.0.9" etag="uE9eobbaARqnipm6Up3z" type="github"><diagram id="K9Q54oz61NSG5GpG4s-A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-12T12:20:50.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="2Q72rPUQYswbHgBN-4J2" version="13.0.9" type="github">
+  <diagram id="K9Q54oz61NSG5GpG4s-A" name="Page-1">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="384" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="h-1OxlsRL0A84Ij7FyJQ-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-3" value="Go to Dashboard" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="339" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="h-1OxlsRL0A84Ij7FyJQ-3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-5" value="Go through Redeem Discount Points&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="339" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="h-1OxlsRL0A84Ij7FyJQ-5" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-7" value="Choose one of the Gifts (Discount Coupons)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="339" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="h-1OxlsRL0A84Ij7FyJQ-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-9" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="h-1OxlsRL0A84Ij7FyJQ-9" parent="1" target="h-1OxlsRL0A84Ij7FyJQ-3">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="530" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="420" />
+              <mxPoint x="520" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="h-1OxlsRL0A84Ij7FyJQ-9" parent="1">
+          <mxGeometry x="1" y="71" relative="1" as="geometry">
+            <mxPoint x="400" y="500" as="targetPoint" />
+            <mxPoint x="-61" y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-13" value="Collect&lt;br&gt;Coupon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-15" value="Cancel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="390" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-16" value="Coupon is added to the list of Discount Coupons" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="339" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="h-1OxlsRL0A84Ij7FyJQ-16" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-1OxlsRL0A84Ij7FyJQ-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="384" y="600" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
