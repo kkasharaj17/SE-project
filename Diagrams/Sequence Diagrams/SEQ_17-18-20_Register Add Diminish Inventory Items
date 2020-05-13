@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T19:00:01.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Vdl5BpfqguCGG-HVlXIp" version="13.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-13T19:01:12.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="8wVzSqGW9w7wgyyLVaLi" version="13.1.0" type="github">
   <diagram id="_vBL-X1PGghgKWmRLYzl" name="Page-1">
     <mxGraphModel dx="1303" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -131,6 +131,34 @@
         </mxCell>
         <mxCell id="t1x-JOoqdJyDRKMV1GtA-26" value="Invoice for purchase and COGS (F-D)" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="595" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t1x-JOoqdJyDRKMV1GtA-28" value="diminishItemQuantity()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;" edge="1" parent="1">
+          <mxGeometry x="0.3504" width="80" relative="1" as="geometry">
+            <mxPoint x="260" y="600" as="sourcePoint" />
+            <mxPoint x="689.5" y="600" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t1x-JOoqdJyDRKMV1GtA-29" value="saveChanges()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="680" y="600" as="sourcePoint" />
+            <mxPoint x="879.5" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t1x-JOoqdJyDRKMV1GtA-30" value="sendConfirmation()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=20;" edge="1" parent="1">
+          <mxGeometry x="0.1145" y="-1" relative="1" as="geometry">
+            <mxPoint x="880.6700000000001" y="639.1700000000001" as="sourcePoint" />
+            <mxPoint x="700" y="637" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t1x-JOoqdJyDRKMV1GtA-27" value="showChange()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=20;" edge="1" parent="1">
+          <mxGeometry x="0.4878" relative="1" as="geometry">
+            <mxPoint x="689.5" y="640" as="sourcePoint" />
+            <mxPoint x="260" y="640" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
