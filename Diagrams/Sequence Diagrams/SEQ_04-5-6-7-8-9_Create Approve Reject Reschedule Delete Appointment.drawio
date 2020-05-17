@@ -1,18 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T17:17:07.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="JtxWLkTG5_nKTKRNIpPH" version="13.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-17T17:18:22.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Rr3op7fB9xfHYDh1RNza" version="13.1.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="920" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L6Z3Xez7cxgLfyGLih7J-20" value="if Accept App" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;width=100;height=15;" parent="1" vertex="1">
-          <mxGeometry x="70" y="300" width="680" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L6Z3Xez7cxgLfyGLih7J-34" value="if Reject App" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;width=100;height=15;" parent="1" vertex="1">
-          <mxGeometry x="70" y="360" width="680" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="L6Z3Xez7cxgLfyGLih7J-42" value="If Confrim App" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;width=90;height=20;" parent="1" vertex="1">
-          <mxGeometry x="80" y="420" width="470" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-2" value=":Appointment" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="100" height="540" as="geometry" />
         </mxCell>
@@ -254,6 +245,15 @@
             <mxPoint x="100" y="510" as="sourcePoint" />
             <mxPoint x="150" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L6Z3Xez7cxgLfyGLih7J-20" value="if Accept App" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;width=100;height=15;" parent="1" vertex="1">
+          <mxGeometry x="70" y="300" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L6Z3Xez7cxgLfyGLih7J-42" value="If Confrim App" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;width=90;height=20;" parent="1" vertex="1">
+          <mxGeometry x="80" y="420" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L6Z3Xez7cxgLfyGLih7J-34" value="if Reject App" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;width=100;height=15;" parent="1" vertex="1">
+          <mxGeometry x="70" y="360" width="680" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
