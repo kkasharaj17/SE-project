@@ -1,167 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T09:24:55.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="ZLTmGLj06P_di34eZ7Zj" version="13.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T09:29:58.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="w1X10Eu0tZYJ_9Gyzcqw" version="13.1.0" type="github">
   <diagram id="fjjqlMAkbygXwSTQIuZQ" name="Page-1">
-    <mxGraphModel dx="1944" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rF4MMDKlGgOnpu7q6Otb-43" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-808.46" y="600" width="770" height="227" as="geometry" />
-        </mxCell>
-        <mxCell id="rF4MMDKlGgOnpu7q6Otb-37" value="Change Shift" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;width=57;height=40;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="530" width="807" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="rF4MMDKlGgOnpu7q6Otb-22" value="Day off Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;width=57;height=40;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="220" width="807" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="rF4MMDKlGgOnpu7q6Otb-27" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="273" width="770" height="227" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-17" value="Alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=20;width=120;height=30;" parent="1" vertex="1">
-          <mxGeometry x="120" y="460" width="1020" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-3" value=":Calendar" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=80;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="200" y="84" width="160" height="716" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=20;" parent="FNVLxTXej4wNCEfS-KUn-3" vertex="1">
-          <mxGeometry x="70" y="160" width="20" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-4" value=":Shift" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=80;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="480" y="83" width="160" height="707" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=20;" parent="FNVLxTXej4wNCEfS-KUn-4" vertex="1">
-          <mxGeometry x="70" y="310" width="20" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-6" value=":Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=80;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="760" y="83" width="160" height="717" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-26" value="deleteRequest()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeWidth=2;fontSize=20;exitX=1.15;exitY=0.839;exitDx=0;exitDy=0;exitPerimeter=0;" parent="FNVLxTXej4wNCEfS-KUn-6" source="FNVLxTXej4wNCEfS-KUn-30" target="FNVLxTXej4wNCEfS-KUn-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="600" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="93" y="600" />
-              <mxPoint x="130" y="600" />
-              <mxPoint x="130" y="620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=20;" parent="FNVLxTXej4wNCEfS-KUn-6" vertex="1">
-          <mxGeometry x="70" y="161" width="20" height="519" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=20;" parent="FNVLxTXej4wNCEfS-KUn-6" vertex="1">
-          <mxGeometry x="80" y="620" width="20" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-8" value="requestCalendarListQuerry()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;strokeWidth=2;exitX=1.017;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.617;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FNVLxTXej4wNCEfS-KUn-27" target="FNVLxTXej4wNCEfS-KUn-30" edge="1">
-          <mxGeometry x="0.5013" width="80" relative="1" as="geometry">
-            <mxPoint x="300" y="250" as="sourcePoint" />
-            <mxPoint x="360" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="250" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-9" value="returnRequest()" style="html=1;verticalAlign=bottom;endArrow=none;fontSize=20;endFill=0;startArrow=open;startFill=0;dashed=1;strokeWidth=2;exitX=1.15;exitY=0.144;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.183;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FNVLxTXej4wNCEfS-KUn-27" target="FNVLxTXej4wNCEfS-KUn-30" edge="1">
-          <mxGeometry x="-0.5004" width="80" relative="1" as="geometry">
-            <mxPoint x="300" y="290" as="sourcePoint" />
-            <mxPoint x="820" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490.25" y="290" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-12" value="changeCalendarDay()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;strokeWidth=2;exitX=1.083;exitY=0.29;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.117;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FNVLxTXej4wNCEfS-KUn-27" target="FNVLxTXej4wNCEfS-KUn-30" edge="1">
-          <mxGeometry x="0.5013" width="80" relative="1" as="geometry">
-            <mxPoint x="300" y="340" as="sourcePoint" />
-            <mxPoint x="820" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490.25" y="340" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-13" value="changeShift()" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;fontSize=20;exitX=1.083;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.05;entryY=0.282;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FNVLxTXej4wNCEfS-KUn-28" target="FNVLxTXej4wNCEfS-KUn-30" edge="1">
-          <mxGeometry x="0.0059" width="80" relative="1" as="geometry">
-            <mxPoint x="580" y="410" as="sourcePoint" />
-            <mxPoint x="820" y="393" as="targetPoint" />
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-15" value=":System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=80;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="960" y="83" width="160" height="717" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=20;" parent="FNVLxTXej4wNCEfS-KUn-15" vertex="1">
-          <mxGeometry x="70" y="350" width="30" height="221" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-16" value="System acting as admin in the Calendar interface" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="950" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-19" value="sendResponse()" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;fontSize=20;exitX=1.017;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.078;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FNVLxTXej4wNCEfS-KUn-30" target="FNVLxTXej4wNCEfS-KUn-31" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="860" y="440" as="sourcePoint" />
-            <mxPoint x="1020" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="920" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-21" value="&lt;font style=&quot;font-size: 19px&quot;&gt;showConfirmation.Message()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=20;entryX=1.15;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.117;exitY=0.531;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FNVLxTXej4wNCEfS-KUn-30" target="FNVLxTXej4wNCEfS-KUn-27" edge="1">
-          <mxGeometry x="0.5364" relative="1" as="geometry">
-            <mxPoint x="820" y="518" as="sourcePoint" />
-            <mxPoint x="300" y="520" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-20" value="confirmRequest()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;strokeWidth=2;fontSize=20;entryX=1.15;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.033;exitY=0.296;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FNVLxTXej4wNCEfS-KUn-31" target="FNVLxTXej4wNCEfS-KUn-30" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1020" y="500" as="sourcePoint" />
-            <mxPoint x="860" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="920" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-22" value="sendConfirmation()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;strokeWidth=2;fontSize=20;exitX=-0.117;exitY=0.608;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FNVLxTXej4wNCEfS-KUn-30" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="560" as="sourcePoint" />
-            <mxPoint x="572" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-23" value="rejectRequest()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;strokeWidth=2;fontSize=20;entryX=1.017;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="FNVLxTXej4wNCEfS-KUn-30" edge="1">
-          <mxGeometry x="-0.0083" relative="1" as="geometry">
-            <mxPoint x="1029" y="633" as="sourcePoint" />
-            <mxPoint x="848.8333333333335" y="510" as="targetPoint" />
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-24" value="" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;strokeWidth=2;fontSize=20;endFill=0;entryX=-0.002;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="FNVLxTXej4wNCEfS-KUn-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="598" as="sourcePoint" />
-            <mxPoint x="130" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-7" value="accessEmpCalendar()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;strokeWidth=2;entryX=-0.05;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="FNVLxTXej4wNCEfS-KUn-27" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="34" y="245" as="sourcePoint" />
-            <mxPoint x="120" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FNVLxTXej4wNCEfS-KUn-34" value="Employee Calendar" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-610" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-35" value="&lt;br&gt;Calendar interface" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="470" width="180" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="FNVLxTXej4wNCEfS-KUn-36" value="[If request rejected]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-800" y="320" width="50" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="FNVLxTXej4wNCEfS-KUn-37" value="[else]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="120" y="600" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rF4MMDKlGgOnpu7q6Otb-2" value=":User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=18;size=50;" vertex="1" parent="1">
           <mxGeometry x="-800" y="80" width="120" height="840" as="geometry" />
@@ -358,6 +205,18 @@
               <mxPoint x="-580" y="555" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rF4MMDKlGgOnpu7q6Otb-27" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="273" width="770" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="rF4MMDKlGgOnpu7q6Otb-22" value="Day off Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;width=57;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="220" width="807" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rF4MMDKlGgOnpu7q6Otb-43" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-808.46" y="600" width="770" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="rF4MMDKlGgOnpu7q6Otb-37" value="Change Shift" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;width=57;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="530" width="807" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
