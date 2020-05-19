@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T08:21:06.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="lgLz1Hn8sCDQImLhmvI8" version="13.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T08:23:45.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="odUehb1F9ppH0UGiz1xz" version="13.1.0" type="github">
   <diagram id="fjjqlMAkbygXwSTQIuZQ" name="Page-1">
     <mxGraphModel dx="1944" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,13 +155,13 @@
           <mxGeometry x="-800" y="80" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="rF4MMDKlGgOnpu7q6Otb-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=18;" vertex="1" parent="rF4MMDKlGgOnpu7q6Otb-2">
-          <mxGeometry x="55" y="84" width="10" height="576" as="geometry" />
+          <mxGeometry x="55" y="80" width="10" height="580" as="geometry" />
         </mxCell>
         <mxCell id="rF4MMDKlGgOnpu7q6Otb-3" value=":Dastabase" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=18;size=50;" vertex="1" parent="1">
           <mxGeometry x="-270" y="80" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="rF4MMDKlGgOnpu7q6Otb-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=18;" vertex="1" parent="rF4MMDKlGgOnpu7q6Otb-3">
-          <mxGeometry x="55" y="84" width="10" height="576" as="geometry" />
+          <mxGeometry x="55" y="80" width="10" height="580" as="geometry" />
         </mxCell>
         <mxCell id="rF4MMDKlGgOnpu7q6Otb-4" value=":Shift" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=18;size=50;" vertex="1" parent="1">
           <mxGeometry x="-430" y="80" width="120" height="680" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="-610" y="80" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="rF4MMDKlGgOnpu7q6Otb-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=18;" vertex="1" parent="rF4MMDKlGgOnpu7q6Otb-5">
-          <mxGeometry x="55" y="84" width="10" height="356" as="geometry" />
+          <mxGeometry x="55" y="80" width="10" height="360" as="geometry" />
         </mxCell>
         <mxCell id="rF4MMDKlGgOnpu7q6Otb-6" value=":Other_User" style="html=1;points=[];perimeter=orthogonalPerimeter;shape=umlLifeline;participant=label;fontFamily=Helvetica;fontSize=18;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="80" width="120" height="680" as="geometry" />
@@ -184,7 +184,7 @@
         <mxCell id="rF4MMDKlGgOnpu7q6Otb-7" value="Either secretary or employee" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-800" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rF4MMDKlGgOnpu7q6Otb-14" value="accesEmpCalendar()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=18;entryX=0.071;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rF4MMDKlGgOnpu7q6Otb-2" target="rF4MMDKlGgOnpu7q6Otb-10">
+        <mxCell id="rF4MMDKlGgOnpu7q6Otb-14" value="accesEmpCalendar()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=14;entryX=0.071;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rF4MMDKlGgOnpu7q6Otb-2" target="rF4MMDKlGgOnpu7q6Otb-10">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-710" y="170" as="sourcePoint" />
             <mxPoint x="-630" y="170" as="targetPoint" />
@@ -192,6 +192,15 @@
         </mxCell>
         <mxCell id="rF4MMDKlGgOnpu7q6Otb-15" value="Employee Calendar" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-430" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rF4MMDKlGgOnpu7q6Otb-16" value="Secretary or employee (they communicate with each other in this diagram)" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-120" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rF4MMDKlGgOnpu7q6Otb-17" value="requestCalendarDaysList()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=14;entryX=0.014;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rF4MMDKlGgOnpu7q6Otb-12">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-550" y="160" as="sourcePoint" />
+            <mxPoint x="-220" y="158" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
