@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-11T17:18:00.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="OUaZ8x-KUQFOqC13H6jy" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-20T15:18:07.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="7SEQtv1SrvKZ8x24EeYD" version="13.1.3" type="github">
   <diagram id="snnwxoYrL7hCCSLVT1c8" name="Page-1">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="783" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="DdL6lNwtZuETyasrrC4E-19" value="Item is added to the Inventory Database" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="265" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DdL6lNwtZuETyasrrC4E-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="DdL6lNwtZuETyasrrC4E-19" edge="1">
+        <mxCell id="DdL6lNwtZuETyasrrC4E-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.367;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DdL6lNwtZuETyasrrC4E-19" edge="1" target="6_CrJreCLbwu4IvZ7Tqf-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="690" as="targetPoint" />
           </mxGeometry>
@@ -96,21 +96,21 @@
         <mxCell id="DdL6lNwtZuETyasrrC4E-21" value="New Item is shown in the Inventory Table" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="400" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DdL6lNwtZuETyasrrC4E-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="DdL6lNwtZuETyasrrC4E-21" edge="1">
+        <mxCell id="DdL6lNwtZuETyasrrC4E-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.589;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DdL6lNwtZuETyasrrC4E-21" edge="1" target="6_CrJreCLbwu4IvZ7Tqf-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdL6lNwtZuETyasrrC4E-23" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="300" y="690" width="200" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="DdL6lNwtZuETyasrrC4E-24" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="DdL6lNwtZuETyasrrC4E-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DdL6lNwtZuETyasrrC4E-25" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="385" y="770" width="30" height="30" as="geometry" />
+          <mxGeometry x="380" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6_CrJreCLbwu4IvZ7Tqf-3" value="Back to Inventory" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="335" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_CrJreCLbwu4IvZ7Tqf-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="6_CrJreCLbwu4IvZ7Tqf-3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
