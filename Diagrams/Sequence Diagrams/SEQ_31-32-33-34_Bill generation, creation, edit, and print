@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-05-23T18:54:38.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 OPR/68.0.3618.63 (Edition Campaign 34)" etag="HCH2kE9VtqAGxpLGT86n" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-23T19:00:15.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 OPR/68.0.3618.63 (Edition Campaign 34)" etag="TEjeTISPKZwb9oVH6KIo" version="13.1.3" type="github">
   <diagram id="cIYGVUjLttIfqF_862Uh" name="Page-1">
     <mxGraphModel dx="1062" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CFSB2Cn9dWBTiDJjUj7M-12" value="Generate&lt;br&gt;Bill&lt;br&gt;Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;width=70;height=50;" vertex="1" parent="1">
-          <mxGeometry x="10" y="220" width="750" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="CFSB2Cn9dWBTiDJjUj7M-1" value=":User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="120" height="560" as="geometry" />
         </mxCell>
@@ -60,6 +57,17 @@
             <mxPoint x="65" y="300" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="90" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CFSB2Cn9dWBTiDJjUj7M-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="CFSB2Cn9dWBTiDJjUj7M-3">
+          <mxGeometry x="60" y="470" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CFSB2Cn9dWBTiDJjUj7M-34" value="printBill()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" target="CFSB2Cn9dWBTiDJjUj7M-33" parent="CFSB2Cn9dWBTiDJjUj7M-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -127,6 +135,45 @@
             <mxPoint x="190" y="380" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CFSB2Cn9dWBTiDJjUj7M-12" value="Generate&lt;br&gt;Bill Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;width=70;height=50;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="750" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CFSB2Cn9dWBTiDJjUj7M-29" value="createBill()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=14;entryX=0;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.725;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CFSB2Cn9dWBTiDJjUj7M-5" target="CFSB2Cn9dWBTiDJjUj7M-15">
+          <mxGeometry x="0.4103" y="-1" width="80" relative="1" as="geometry">
+            <mxPoint x="110" y="480" as="sourcePoint" />
+            <mxPoint x="490" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CFSB2Cn9dWBTiDJjUj7M-30" value="sendRequest()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=14;exitX=1;exitY=0.681;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CFSB2Cn9dWBTiDJjUj7M-15" target="CFSB2Cn9dWBTiDJjUj7M-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="590" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CFSB2Cn9dWBTiDJjUj7M-31" value="sendConfirmation()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=14;exitX=0;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CFSB2Cn9dWBTiDJjUj7M-6" target="CFSB2Cn9dWBTiDJjUj7M-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="520" as="sourcePoint" />
+            <mxPoint x="610" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CFSB2Cn9dWBTiDJjUj7M-32" value="showBill()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=14;exitX=0;exitY=0.753;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.798;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CFSB2Cn9dWBTiDJjUj7M-15" target="CFSB2Cn9dWBTiDJjUj7M-5">
+          <mxGeometry x="0.5128" relative="1" as="geometry">
+            <mxPoint x="490" y="510" as="sourcePoint" />
+            <mxPoint x="410" y="510" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CFSB2Cn9dWBTiDJjUj7M-35" value="saveBill()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=14;entryX=0;entryY=0.819;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CFSB2Cn9dWBTiDJjUj7M-15">
+          <mxGeometry x="0.4602" width="80" relative="1" as="geometry">
+            <mxPoint x="106" y="532" as="sourcePoint" />
+            <mxPoint x="190" y="530" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CFSB2Cn9dWBTiDJjUj7M-28" value="Create&amp;nbsp;&lt;br&gt;Bill Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;width=60;height=40;" vertex="1" parent="1">
+          <mxGeometry x="10" y="460" width="750" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
