@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-23T18:16:43.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 OPR/68.0.3618.63 (Edition Campaign 34)" etag="HF2FJgN8rFgPp0pE0HmF" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-23T18:17:39.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 OPR/68.0.3618.63 (Edition Campaign 34)" etag="WUFs30XBEH3qKBL9Bxdk" version="13.1.3" type="github">
   <diagram id="RmEoEumiIocSLrZ60kgb" name="Page-1">
     <mxGraphModel dx="1062" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,6 +113,12 @@
         </mxCell>
         <mxCell id="BBa3mwyYSDhd4w7UyYBp-6" value="Gallery&lt;br&gt;Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="100" width="760" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BBa3mwyYSDhd4w7UyYBp-25" value="Old previous appointments" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BBa3mwyYSDhd4w7UyYBp-26" value="Photo gallery of client in salon" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="240" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
