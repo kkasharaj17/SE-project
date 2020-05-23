@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-23T17:55:11.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 OPR/68.0.3618.63 (Edition Campaign 34)" etag="qkt9breJXzmyiHKCzwug" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-23T17:56:49.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 OPR/68.0.3618.63 (Edition Campaign 34)" etag="-vWIo9S5r8BxXisEj6Ee" version="13.1.3" type="github">
   <diagram id="ZvswTUO-Zu5YeTHh9Eew" name="Page-1">
     <mxGraphModel dx="1062" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,30 +67,30 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kPbfFl2tk-6dKfdmZLiG-17" value="createCoupon()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;exitX=1;exitY=0.445;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kPbfFl2tk-6dKfdmZLiG-9" target="kPbfFl2tk-6dKfdmZLiG-18">
+        <mxCell id="kPbfFl2tk-6dKfdmZLiG-17" value="createCoupon()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;entryX=0.1;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kPbfFl2tk-6dKfdmZLiG-18">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="260" y="250" as="sourcePoint" />
+            <mxPoint x="255" y="251" as="sourcePoint" />
             <mxPoint x="340" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kPbfFl2tk-6dKfdmZLiG-19" value="After selecting to what they &lt;br&gt;want to redeem their points, a coupon code is created representing the chosen gift (usually discounts on various things)" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="350" y="5" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kPbfFl2tk-6dKfdmZLiG-20" value="saveChanges()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;exitX=1;exitY=0.052;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.309;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kPbfFl2tk-6dKfdmZLiG-18" target="kPbfFl2tk-6dKfdmZLiG-14">
+        <mxCell id="kPbfFl2tk-6dKfdmZLiG-20" value="saveChanges()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;entryX=0.1;entryY=0.309;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kPbfFl2tk-6dKfdmZLiG-14">
           <mxGeometry x="0.478" y="1" width="80" relative="1" as="geometry">
-            <mxPoint x="450" y="260" as="sourcePoint" />
+            <mxPoint x="445" y="259" as="sourcePoint" />
             <mxPoint x="530" y="260" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kPbfFl2tk-6dKfdmZLiG-21" value="sendConfirmation()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=15;entryX=1;entryY=0.195;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kPbfFl2tk-6dKfdmZLiG-18">
+        <mxCell id="kPbfFl2tk-6dKfdmZLiG-21" value="sendConfirmation()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=15;entryX=1.2;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kPbfFl2tk-6dKfdmZLiG-18">
           <mxGeometry x="0.4603" relative="1" as="geometry">
             <mxPoint x="760" y="290" as="sourcePoint" />
             <mxPoint x="680" y="290" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kPbfFl2tk-6dKfdmZLiG-22" value="showCoupon()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=15;exitX=0;exitY=0.19;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kPbfFl2tk-6dKfdmZLiG-18" target="kPbfFl2tk-6dKfdmZLiG-8">
+        <mxCell id="kPbfFl2tk-6dKfdmZLiG-22" value="showCoupon()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=15;exitX=-0.1;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kPbfFl2tk-6dKfdmZLiG-18" target="kPbfFl2tk-6dKfdmZLiG-8">
           <mxGeometry x="-0.3784" relative="1" as="geometry">
             <mxPoint x="430" y="290" as="sourcePoint" />
             <mxPoint x="360" y="290" as="targetPoint" />
@@ -104,10 +104,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kPbfFl2tk-6dKfdmZLiG-25" value="showLessPoints()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=15;exitX=-0.1;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kPbfFl2tk-6dKfdmZLiG-9" target="kPbfFl2tk-6dKfdmZLiG-8">
-          <mxGeometry x="0.0503" y="29" relative="1" as="geometry">
-            <mxPoint x="240" y="320" as="sourcePoint" />
+        <mxCell id="kPbfFl2tk-6dKfdmZLiG-25" value="showLessPoints()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=15;" edge="1" parent="1" target="kPbfFl2tk-6dKfdmZLiG-8">
+          <mxGeometry x="0.0395" relative="1" as="geometry">
+            <mxPoint x="242" y="320" as="sourcePoint" />
             <mxPoint x="160" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="320" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
