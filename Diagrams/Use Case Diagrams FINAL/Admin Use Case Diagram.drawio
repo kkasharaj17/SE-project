@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" modified="2020-05-23T20:09:24.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="crfTJqFR7epYuu1MrvV0" version="13.1.3" type="github">
+  <diagram id="kxrxhNhSqW7F2zdXuFON" name="Page-1">
+    <mxGraphModel dx="782" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-1" value="Create/ Delete/ Accept/ Reject/ Reschedule Appointments&lt;br&gt;UC_04-05-06-07-08" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="445" y="10" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Administrator&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="280" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yWerK1OXRGHd1733tFAO-3" value="&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="mWeJjzWpPpbDOYR_1SjR-8" vertex="1">
+          <mxGeometry x="71" y="15" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-9" value="" style="endArrow=classic;html=1;entryX=-0.011;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="mWeJjzWpPpbDOYR_1SjR-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="100" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-15" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3BentryX%3D-0.011%3BentryY%3D0.65%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22210%22%20y%3D%22260%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22447.9100000000001%22%20y%3D%2282%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="372" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-16" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-17" value="Activate/ Deactivate Client&lt;br&gt;UC_37-38" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="450" y="220" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-18" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-19" value="View/ Print Revenues/ Expenses/ Accounting Reports&lt;br&gt;UC_21-22-24-25" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="450" y="320" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-20" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-21" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-22" value="Register/ Add/ Diminish &lt;br&gt;Inventory Item&lt;br&gt;UC_17-18-20&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="450" y="430" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-23" value="Generate/ Modify/ Pint Bills &amp;amp; Invoices&lt;br&gt;UC_19-23-31-32-33-34" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="450" y="540" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-24" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-25" value="" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="100" y="130" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yWerK1OXRGHd1733tFAO-2" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="-20" width="420" height="670" as="geometry">
+            <mxRectangle x="300" y="130" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWeJjzWpPpbDOYR_1SjR-2" value="Register/ Edit/ Remove Employee&lt;br&gt;UC_10-11-12-13" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yWerK1OXRGHd1733tFAO-2" vertex="1">
+          <mxGeometry x="190" y="130" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
