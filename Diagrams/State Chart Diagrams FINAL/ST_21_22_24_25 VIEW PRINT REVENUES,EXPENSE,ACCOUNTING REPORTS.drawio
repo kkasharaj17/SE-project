@@ -1,0 +1,204 @@
+<mxfile host="app.diagrams.net" modified="2020-05-25T01:44:56.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="3hu60h8sj-SjI1o7JBCT" version="13.0.8" type="github">
+  <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
+    <mxGraphModel dx="946" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="21ea969265ad0168-36" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="21ea969265ad0168-6" target="BLEFrle1ULVc5vWn8EwS-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="122" />
+              <mxPoint x="280" y="122" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdV9_6l6kC6E4xn4P61S-1" value="go to accounting section&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="77" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rdV9_6l6kC6E4xn4P61S-27" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="50" y="97" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rdV9_6l6kC6E4xn4P61S-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="rdV9_6l6kC6E4xn4P61S-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BLEFrle1ULVc5vWn8EwS-14" value="" style="endArrow=classic;html=1;entryX=-0.006;entryY=0.141;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BLEFrle1ULVc5vWn8EwS-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="110" as="sourcePoint" />
+            <mxPoint x="648" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BLEFrle1ULVc5vWn8EwS-16" value="check revenues" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="74" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BLEFrle1ULVc5vWn8EwS-9" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="102" as="sourcePoint" />
+            <mxPoint x="920" y="102" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21ea969265ad0168-6" value="Dashboard" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="140" y="74" width="130" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="21ea969265ad0168-8" value="idle" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21ea969265ad0168-6" vertex="1">
+          <mxGeometry y="26" width="130" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="BLEFrle1ULVc5vWn8EwS-1" value="Accounting Section Displayed" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="350" y="74" width="180" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BLEFrle1ULVc5vWn8EwS-2" value="display accounting section" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="BLEFrle1ULVc5vWn8EwS-1" vertex="1">
+          <mxGeometry y="26" width="180" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="BLEFrle1ULVc5vWn8EwS-3" value="Revenue Table" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="660" y="74" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BLEFrle1ULVc5vWn8EwS-4" value="display revenue table" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="BLEFrle1ULVc5vWn8EwS-3" vertex="1">
+          <mxGeometry y="26" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8N9rrHKWuCIieLVCjy-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="952.5" y="770" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8N9rrHKWuCIieLVCjy-19" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="330" />
+            </Array>
+            <mxPoint x="810" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pF-UwBFgkB0Nw0dVT4yW-3" value="print report of revenue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="850" y="74" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pF-UwBFgkB0Nw0dVT4yW-4" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="219.5" as="sourcePoint" />
+            <mxPoint x="890" y="219.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pF-UwBFgkB0Nw0dVT4yW-10" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="967" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="967" y="530" />
+            </Array>
+            <mxPoint x="967" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7gzjmoJwAs0fPTZm3NS-1" value="choose a fiscal year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D7gzjmoJwAs0fPTZm3NS-4" value="check expenses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-1" value="" style="endArrow=classic;html=1;entryX=-0.006;entryY=0.141;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530.96" y="137.48" as="sourcePoint" />
+            <mxPoint x="660" y="136.504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Za8N9rrHKWuCIieLVCjy-8" value="Expenses table" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="660" y="180" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8N9rrHKWuCIieLVCjy-9" value="display expenses table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Za8N9rrHKWuCIieLVCjy-8" vertex="1">
+          <mxGeometry y="26" width="150" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="pF-UwBFgkB0Nw0dVT4yW-5" value="Accounting Reports SFP" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="660" y="280" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pF-UwBFgkB0Nw0dVT4yW-6" value="display accounting reports tab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pF-UwBFgkB0Nw0dVT4yW-5" vertex="1">
+          <mxGeometry y="26" width="150" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-4" value="print report of expenses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="825" y="180" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-5" value="Revenue Report printed" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="920" y="72" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-6" value="print revenue report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cTtkKD0iYFrcEBVeegQB-5" vertex="1">
+          <mxGeometry y="26" width="155" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-9" value="Expense Report printed" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="890" y="180" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-10" value="print revenue report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cTtkKD0iYFrcEBVeegQB-9" vertex="1">
+          <mxGeometry y="26" width="155" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-15" value="Fiscal year choice" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="900" y="300" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-16" value="do:select fiscal year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cTtkKD0iYFrcEBVeegQB-15" vertex="1">
+          <mxGeometry y="26" width="150" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-17" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970.5" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="380" />
+              <mxPoint x="980" y="380" />
+            </Array>
+            <mxPoint x="970" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-18" value="display[ofFiscalYearChoice]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="870" y="405" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-21" value="Report of SFP displayed" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="892.5" y="460" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-22" value="display report of that fiscal year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cTtkKD0iYFrcEBVeegQB-21" vertex="1">
+          <mxGeometry y="26" width="150" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-23" value="print" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="970" y="560" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-24" value="Report of SFP printed" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="895" y="620" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-25" value="printed report SFP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cTtkKD0iYFrcEBVeegQB-24" vertex="1">
+          <mxGeometry y="26" width="150" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-26" value="" style="endArrow=classic;html=1;entryX=0.053;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="pF-UwBFgkB0Nw0dVT4yW-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="152" as="sourcePoint" />
+            <mxPoint x="740" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-28" value="check SFP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-29" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="967" y="700" as="sourcePoint" />
+            <mxPoint x="967" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-30" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Za8N9rrHKWuCIieLVCjy-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1075" y="110" as="sourcePoint" />
+            <mxPoint x="1105" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="110" />
+              <mxPoint x="1090" y="785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTtkKD0iYFrcEBVeegQB-31" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="Za8N9rrHKWuCIieLVCjy-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1042.5" y="210" as="sourcePoint" />
+            <mxPoint x="1020" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1072.5" y="210" />
+              <mxPoint x="1070" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
