@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" modified="2020-05-25T01:46:02.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="vJZ6IdyPjHW1LkRRvnBh" version="13.0.8" type="github">
+  <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
+    <mxGraphModel dx="946" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="21ea969265ad0168-39" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;exitX=1;exitY=0.5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="250" y="106" as="sourcePoint" />
+            <mxPoint x="350" y="106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-10" value="[IncorrectInput]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="101" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-17" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="70" y="85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="Hgtj_GoyG-KB-VZRIQT7-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-23" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1014.5" y="115.5" as="sourcePoint" />
+            <mxPoint x="1070" y="115.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-26" value="go to new invoice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="74" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-27" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="94" as="sourcePoint" />
+            <mxPoint x="710" y="74" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="94" />
+              <mxPoint x="780" y="94" />
+              <mxPoint x="780" y="34" />
+              <mxPoint x="710" y="34" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-28" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="99.5" as="sourcePoint" />
+            <mxPoint x="600" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21ea969265ad0168-6" value="Dashboard" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="140" y="74" width="110" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="21ea969265ad0168-7" value="idle" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21ea969265ad0168-6" vertex="1">
+          <mxGeometry y="26" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-32" value="cancel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cqn9fgDsuQAYlUK2VSuY-1" value="fill in expenses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="106" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-1" value="New Invoice tab" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="350" y="74" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-2" value="display form for new invoice" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Hgtj_GoyG-KB-VZRIQT7-1" vertex="1">
+          <mxGeometry y="26" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-5" value="New Invoice completing" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="600" y="74" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgtj_GoyG-KB-VZRIQT7-6" value="do: fill form&lt;br&gt;validate data," style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Hgtj_GoyG-KB-VZRIQT7-5" vertex="1">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Cqn9fgDsuQAYlUK2VSuY-5" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Cqn9fgDsuQAYlUK2VSuY-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="113" as="sourcePoint" />
+            <mxPoint x="824" y="113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cqn9fgDsuQAYlUK2VSuY-6" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;exitX=0.159;exitY=1.088;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Cqn9fgDsuQAYlUK2VSuY-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="190" as="sourcePoint" />
+            <mxPoint x="455" y="134" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="877" y="190" />
+              <mxPoint x="455" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cqn9fgDsuQAYlUK2VSuY-8" value="save[CorrectInput]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="780" y="89" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cqn9fgDsuQAYlUK2VSuY-3" value="New invoice saved" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="870" y="85" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cqn9fgDsuQAYlUK2VSuY-4" value="do:save changes&lt;br&gt;exit:update invoices list" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Cqn9fgDsuQAYlUK2VSuY-3" vertex="1">
+          <mxGeometry y="26" width="160" height="34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
