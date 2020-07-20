@@ -6,8 +6,7 @@ There are several steps that need to be followed in order to install SmartStyle 
 •	Secondly, download the SmartSyle folder, which you can find under this link: https://github.com/kkasharaj17/SmartStyle. 
 •	Continue by opening XAMPP and starting MySQL and Apache.
 •	Under XAMMP folder, manage to find the htdocs folder, and insert the SmartStyle downloaded folder inside the htdocs folder.
-•	In order to use the database of the system, you need to firstly create a database called web18_kkasharaj17, and then import the SQL script web18_kkasharaj17.sql, which can be found under the web20 folder.
-•	You can open the software using this link: http://localhost/web20.
+•	In order to use the database of the system, you need to firstly create a database called web18_kkasharaj17, and then import the SQL script web18_kkasharaj17.sql, which can be found under the SmartStyle folder.
 
 2.	User Manual
 
